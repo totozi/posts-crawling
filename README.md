@@ -1,2 +1,4 @@
 # posts-crawling
-simple crawling
+티스토리 블로그 글들을 제목과 글 내용만 긁어서 html 파일로 저장
+
+나중에 내가 직접 만든 블로그에 데이터 옮길 때 사용할 기능임
